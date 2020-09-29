@@ -7,7 +7,6 @@ const settings = {
 const {
   color: { chosen_color: chosenColor = "light" },
 } = settings;
-
 // chosen_color -> chosenColor
 console.log(chosenColor);
 
